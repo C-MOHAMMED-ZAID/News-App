@@ -11,20 +11,6 @@ function MenuBar() {
     </button>
     <div class="collapse navbar-collapse" id="navbarText">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="/create-employee" >Create Employee</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/EmployeeList">Employee List</a>
-        </li>
-
-        <li className='nav-item'>
-          <a href={"/create-salary"} className='nav-link'>Create Salary</a>
-        </li>
-
-        <li className='nav-item'>
-          <a href={"/salary-list"} className='nav-link'>Salary List</a>
-        </li>
 
         <li className='nav-item'>
           <a href={"/create-news"} className='nav-link'>Create News</a>
