@@ -4,7 +4,7 @@ let cors=require("cors");
 let bodyParser=require("body-parser");
 
 const newsRoute=require("./routes/newsroutes")
-mongoose.connect("mongodb://127.0.0.1:27017/News")
+mongoose.connect("mongodb://127.0.0.1:27017/Emp")
 .then((x)=>{
     console.log(`Connected to Mongo! Database name:"${x.connections[0].name}"`,);
 })
