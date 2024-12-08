@@ -1,6 +1,3 @@
-Certainly! Here’s a detailed and precise README file for your News App GitHub repository. This README is structured to provide clear information about your project, its features, and how others can contribute.
-
-```markdown
 # News App
 
 Welcome to the **News App**! This is a beginner-friendly project that allows users to read daily news and create their own news articles. Built with modern web technologies, this app serves as an excellent resource for learning how to connect a frontend with a backend database.
@@ -112,4 +109,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Thank you for checking out the News App! Happy coding!
-```
